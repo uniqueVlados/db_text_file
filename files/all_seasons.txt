@@ -1,0 +1,4 @@
+winter - -21.91
+spring - 4.5
+summer - 28.42
+autumn - 5.0
